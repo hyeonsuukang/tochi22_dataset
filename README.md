@@ -1,5 +1,7 @@
 The dataset is divided into 16 roughly equal-sized csv files. Each file contains about 200K paper abstracts, making the total number of documents around 3.3 million.
 
+[Download from Google Drive](https://drive.google.com/drive/u/0/folders/1QOgEQ6q7B00J_T_5M60hHNDlt4-oQEWZ)
+
 Each csv file is organized by the following 5 columns.
 
 | title | abstract | purpose | date | venue | 
