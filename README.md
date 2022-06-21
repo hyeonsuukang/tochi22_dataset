@@ -27,7 +27,6 @@ If you use this dataset in your work, please cite our paper:
       month = {mar},
       keywords = {Creativity, Analogies, Innovation, AI-assisted design teams, Sciences, Natural Language Processing}
     }
-  }
 ```
 
 ## Dataset
