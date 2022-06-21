@@ -13,12 +13,20 @@ Accepted at the ACM Transactions on Computer-Human Interaction (TOCHI) journal.
 If you use this dataset in your work, please cite our paper:
 
 ```
-  @article{tochi2022_kang_augmenting,
-    title={Augmenting Scientific Creativity with an Analogical Search Engine},
-    author={Kang, Hyeonsu B and Qian, Xin and Hope, Tom and Shahaf, Dafna and Chan, Joel and Kittur, Aniket},
-    journal={ACM Transactions on Computer-Human Interaction},
-    year={2022},
-    publisher={ACM New York, NY}
+    @article{10.1145/3530013,
+      author = {Kang, Hyeonsu B. and Qian, Xin and Hope, Tom and Shahaf, Dafna and Chan, Joel and Kittur, Aniket},
+      title = {Augmenting Scientific Creativity with an Analogical Search Engine},
+      year = {2022},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      issn = {1073-0516},
+      url = {https://doi.org/10.1145/3530013},
+      doi = {10.1145/3530013},
+      note = {Just Accepted},
+      journal = {ACM Trans. Comput.-Hum. Interact.},
+      month = {mar},
+      keywords = {Creativity, Analogies, Innovation, AI-assisted design teams, Sciences, Natural Language Processing}
+    }
   }
 ```
 
